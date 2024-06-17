@@ -2,9 +2,8 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        // Press Opt+Enter with your caret at the highlighted text to see how
-        // IntelliJ IDEA suggests fixing it.
-        System.out.printf("안녕 내가 돌아왔따!");
+        int value = 1;
+        System.out.println(value);
 
 
     }
